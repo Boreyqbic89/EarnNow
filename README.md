@@ -1,0 +1,2 @@
+# EarnNow
+Application test
